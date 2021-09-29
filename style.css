@@ -37,17 +37,17 @@ body {
     position: relative;
     background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
     animation-name: animation;
-    animation-duration: 4s;
+    animation-duration: 6s;
     animation-iteration-count: infinite;
 
   }
 
   @keyframes animation {
-    0%   {left:0px; top:0px;}
-    25%  {left:200px; top:0px;}
-    50%  {left:200px; top:200px;}
-    75%  {left:0px; top:200px;}
-    100% {left:0px; top:0px;}
+    0%   {left:300px; top:0px;}
+    25%  {left:0px; top:0px;}
+    50%  {left:300px; top:0px;}
+    75%  {left:0px; top:0px;}
+    100% {left:300px; top:0px;}
   }
 
   .h1 {
