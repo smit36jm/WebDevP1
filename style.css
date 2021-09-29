@@ -33,6 +33,7 @@ body {
   .ani {
     width: 100px;
     height: 100px;
+    background-position: center;
     position: relative;
     background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
     background-size: 200px;
