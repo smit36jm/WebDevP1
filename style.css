@@ -34,7 +34,8 @@ body {
     width: 100px;
     height: 100px;
     background-color: red;
-    animation-name: example;
+    background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
+    animation-name: animation;
     animation-duration: 4s;
   }
 
