@@ -36,7 +36,6 @@ body {
     background-size: 100px 110px;
     position: relative;
     background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
-    background-size: 200px;
     animation-name: animation;
     animation-duration: 4s;
     animation-iteration-count: infinite;
@@ -51,7 +50,7 @@ body {
     100% {left:0px; top:0px;}
   }
 
-  h1 {
+  .h1 {
     text-decoration: wavy;
     text-decoration-color: darkgoldenrod;
     
