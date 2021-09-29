@@ -3,7 +3,7 @@ body {
   }
   
   .navlinks {
-    list-style-type: georgian;
+    list-style-type: none;
     padding: 0;
     margin: 0;
     background-color: black;
