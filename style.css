@@ -35,8 +35,11 @@ body {
     height: 100px;
     background-position: center;
     background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
+    background-size: 200px;
     animation-name: animation;
     animation-duration: 4s;
+    animation-iteration-count: infinite;
+
   }
 
   @keyframes animation {
