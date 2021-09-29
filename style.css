@@ -1,6 +1,9 @@
 body {
+    display: flexbox;
     margin: 0;
     background-image: url("https://wallpapercave.com/wp/f1LfK8R.jpg");
+    width: auto;
+    height: auto;
     
   }
   
