@@ -30,7 +30,7 @@ body {
     background-color: gray;
   }
 
-  #ani {
+  .ani {
     width: 100px;
     height: 100px;
     background-color: red;
