@@ -8,15 +8,16 @@ body {
     margin: 0;
     background-color: black;
   
-    display: flexbox;
+    display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    /* justify-content: flex-end; */
   }
   
   .navlink > a {
     color: white;
     padding: 10px;
     display: inline-block;
+    text-align: center;
   }
   
   .navlink > a:hover {
