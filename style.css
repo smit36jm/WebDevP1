@@ -33,7 +33,7 @@ body {
   .ani {
     width: 100px;
     height: 100px;
-    background-position: center;
+    background-size: 100px 110px;
     position: relative;
     background-image: url("https://thumbs.dreamstime.com/b/cartoon-man-snowboarding-snowboard-stick-drawing-illustration-106207072.jpg");
     background-size: 200px;
@@ -49,4 +49,10 @@ body {
     50%  {left:200px; top:200px;}
     75%  {left:0px; top:200px;}
     100% {left:0px; top:0px;}
+  }
+
+  h1 {
+    text-decoration: wavy;
+    text-decoration-color: darkgoldenrod;
+    
   }
