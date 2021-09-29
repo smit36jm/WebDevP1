@@ -10,14 +10,13 @@ body {
   
     display: flex;
     flex-direction: row;
-    /* justify-content: flex-end; */
+    justify-content: space-evenly;
   }
   
   .navlink > a {
     color: white;
     padding: 10px;
     display: inline-block;
-    text-align: center;
   }
   
   .navlink > a:hover {
