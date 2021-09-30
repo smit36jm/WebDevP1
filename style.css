@@ -56,3 +56,9 @@ body {
     text-decoration-color: darkgoldenrod;
     text-decoration-line: underline;
   }
+
+  .p1 {
+    display: flexbox;
+    width: fit-content;
+    height: fit-content;
+  }
