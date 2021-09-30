@@ -52,6 +52,7 @@ body {
 
   .h1 {
     font-style: italic;
+    font-size: larger;
     text-decoration: wavy;
     text-decoration-color: darkgoldenrod;
     text-decoration-line: underline;
@@ -66,4 +67,9 @@ body {
     font-weight: bold;
     color: darkgoldenrod;
     background-color: lightsteelblue;
+  }
+
+  .side-text {
+    display: flex;
+    font-size: medium;
   }
