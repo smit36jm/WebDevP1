@@ -91,7 +91,7 @@ body {
     color: darkgoldenrod;
     font-size: 1.6em;
     list-style: none;
-    float:left;
+    float: inline-start;
     background-color: lightsteelblue;
     padding: 0.5em;
   }
