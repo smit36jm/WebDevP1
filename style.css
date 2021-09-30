@@ -64,6 +64,6 @@ body {
     height: auto;
     margin-right: 50px;
     font-weight: bold;
-    color:darkgreen;
-
+    color: darkgoldenrod;
+    background-color: lightsteelblue;
   }
