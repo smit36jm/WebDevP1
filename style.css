@@ -78,8 +78,9 @@ body {
     display: flex;
     font-weight: bolder;
     color: darkgoldenrod;
-    font-size: 450px;
-    font-size: 1.4em;
+    font-size: 1.6em;
     list-style: none;
     float: inline-start;
+    background-color: lightsteelblue;
+    padding: 0.5em;
   }
