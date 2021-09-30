@@ -52,7 +52,7 @@ body {
 
   .h1 {
     font-style: italic;
-    font-size: larger;
+    font-size: 2.0em;
     text-decoration: wavy;
     text-decoration-color: darkgoldenrod;
     text-decoration-line: underline;
@@ -71,5 +71,9 @@ body {
 
   .side-text {
     display: flex;
-    font-size: medium;
+    font-weight: bolder;
+    color: crimson;
+    font-size: 450px;
+    font-size: 1.4em;
+    list-style: none;
   }
