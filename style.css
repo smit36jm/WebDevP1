@@ -69,12 +69,15 @@ body {
     color: darkgoldenrod;
     background-color: lightsteelblue;
     float: none;
+    border-style: groove;
+    border-width: thick;
+    padding: 1.0em;
   }
 
   .side-text {
     display: flex;
     font-weight: bolder;
-    color: crimson;
+    color: darkgoldenrod;
     font-size: 450px;
     font-size: 1.4em;
     list-style: none;
