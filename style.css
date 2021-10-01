@@ -88,8 +88,10 @@
     display: flexbox;
     font-size: xx-large;
     text-align: center;
-    background-color: lightsteelblue;
-    
+    background-color: black;
+    color: white;
+    margin-right: 400px;
+    margin-left: 400px;
   }
 
   
