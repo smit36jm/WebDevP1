@@ -85,7 +85,7 @@
   }
 
   .park-header{
-    display: flexbox;
+    display: flex;
     font-size: xx-large;
     text-align: center;
     background-color: black;
@@ -95,7 +95,7 @@
   }
 
   .images {
-    display: flexbox;
+    display: flex;
     justify-content: space-between;
   }
 
