@@ -85,13 +85,4 @@ body {
     padding: 0.5em;
   }
 
-  .side-text1 {
-    display: flex;
-    font-weight: bolder;
-    color: darkgoldenrod;
-    font-size: 1.6em;
-    list-style: none;
-    float: inline-start;
-    background-color: lightsteelblue;
-    padding: 0.5em;
-  }
+  
