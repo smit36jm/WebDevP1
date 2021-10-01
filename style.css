@@ -134,3 +134,9 @@
     border-width: 12px;
     padding: 1.0em;
   }
+
+  .p-report {
+    display: flex;
+    background-color: black;
+    color: white;
+  }
