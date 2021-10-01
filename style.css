@@ -84,7 +84,7 @@
     padding: 0.5em;
   }
 
-  .park-header{
+  .header{
     display: flex;
     font-size: xx-large;
     text-align: center;
@@ -105,4 +105,10 @@
     padding: 30px;
   }
 
+  .form {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: whitesmoke;
+  }
   
