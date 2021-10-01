@@ -42,11 +42,11 @@
   }
 
   @keyframes animation {
-    0%   {left:300px; top:0px;}
+    0%   {left:450px; top:0px;}
     25%  {left:0px; top:0px;}
-    50%  {left:300px; top:0px;}
+    50%  {left:450px; top:0px;}
     75%  {left:0px; top:0px;}
-    100% {left:300px; top:0px;}
+    100% {left:450px; top:0px;}
   }
 
   .h1 {
@@ -82,6 +82,11 @@
     float: inline-start;
     background-color: lightsteelblue;
     padding: 0.5em;
+  }
+
+  .park-header{
+    display: flexbox;
+    font-size: xx-large;
   }
 
   
