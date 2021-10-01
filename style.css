@@ -87,6 +87,9 @@
   .park-header{
     display: flexbox;
     font-size: xx-large;
+    text-align: center;
+    background-color: lightsteelblue;
+    
   }
 
   
