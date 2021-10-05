@@ -142,7 +142,7 @@
   }
 
   .list {
-    display: flex;
+    /* display: flex; */
     font-size:x-large;
     font-weight: bold;
   }
