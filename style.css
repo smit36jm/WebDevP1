@@ -140,3 +140,9 @@
     background-color: black;
     color: white;
   }
+
+  .list {
+    display: flex;
+    font-size:x-large;
+    font-weight: bold;
+  }
