@@ -141,7 +141,7 @@
     color: white;
   }
 
-  .list {
+  ol.list {
     /* display: flex; */
     font-size:x-large;
     font-weight: bold;
